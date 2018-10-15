@@ -1,4 +1,4 @@
-# Frontend Boilerplate with React, MobX & TypeScript
+# Frontend Boilerplate with React, Bootstrap 4, MobX & TypeScript, Sass, CssModules
 
 A bare minimum react-mobx-webpack-typescript boilerplate.
 
